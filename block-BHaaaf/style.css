@@ -1,0 +1,19 @@
+h1 { 
+    color: blueviolet;
+    font-size: 35px;
+}
+p { 
+    color: blueviolet;
+    font-size: 31px;
+}
+body{
+    background-color: chartreuse;
+}
+.heading {
+    color: red;
+    font-size: 35px;
+}
+#codeid{
+    color: blue;
+    font-size: 35px;
+}
